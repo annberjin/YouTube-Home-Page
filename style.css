@@ -1,0 +1,19 @@
+.p {
+    font-family: Roboto, Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.search-bar {
+    display: block;
+}
+
+.thumbnail {
+    width: 300px;
+    display: block;
+}
+
+.video-title {
+    width: 300px;
+    font-size: 14px;
+}
