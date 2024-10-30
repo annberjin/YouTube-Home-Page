@@ -1,19 +1,33 @@
-.p {
+p {
     font-family: Roboto, Arial;
     margin-top: 0;
     margin-bottom: 0;
+}
+
+.thumbnail {
+    width: 300px;
+    display: block;
+    margin-bottom: 12px;
 }
 
 .search-bar {
     display: block;
 }
 
-.thumbnail {
-    width: 300px;
-    display: block;
-}
-
 .video-title {
     width: 300px;
     font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 12px;
+}
+
+.video-author, .video-stats {
+    margin-bottom: 4px;
+}
+
+.video-preview {
+    width: 300px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 15px;
 }
