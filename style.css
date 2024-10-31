@@ -7,7 +7,6 @@ p {
 .thumbnail {
     width: 300px;
     display: block;
-    margin-bottom: 12px;
 }
 
 .search-bar {
@@ -15,14 +14,11 @@ p {
 }
 
 .video-title {
-    width: 300px;
+    margin-top: 0;
     font-size: 14px;
-    font-weight: 500;
+    font-weight: 700;
+    line-height: 20px;
     margin-bottom: 12px;
-}
-
-.video-author, .video-stats {
-    margin-bottom: 4px;
 }
 
 .video-preview {
@@ -30,4 +26,33 @@ p {
     display: inline-block;
     vertical-align: top;
     margin-right: 15px;
+}
+
+.profile {
+    display: inline-block;
+    width: 50px;
+    vertical-align: top;
+}
+
+.profile-picture {
+    width: 40px;
+    border-radius: 50px;
+}
+
+.video-info {
+    display: inline-block;
+    width: 200px;
+}
+
+.video-author {
+    margin-bottom: 4px;
+}
+
+.thumbnail-row {
+    margin-bottom: 12px;
+}
+
+.video-author, .video-stats {
+    font-size: 12px;
+    color: rgb(96, 96, 96);
 }
