@@ -5,4 +5,13 @@
     top: 55px;
     bottom: 0;
     width: 72px;
+    z-index: 100;
+}
+
+.sidebar-link {
+    height: 76px;
+}
+
+.sidebar-link:hover {
+    background-color: rgb(235,235,235);
 }
