@@ -1,4 +1,4 @@
-# YouTube-clone
+# YouTube Home Page
 Purpose:
 This project is a recreation of YouTube's homepage layout using HTML and CSS. The goal of this project was to learn and apply various web development concepts, including foundational and advanced techniques in HTML and CSS.
 
